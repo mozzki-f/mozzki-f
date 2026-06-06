@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm mozzki-f
 
-<!--
-**mozzki-f/mozzki-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Web Developer | 🎨 Digital Creator
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building websites, exploring technology, and creating digital projects that solve real problems. I enjoy learning new skills, turning ideas into reality, and continuously improving my craft.
+
+## 🚀 Currently Working On
+- Building modern and responsive websites
+- Developing portfolio projects with HTML, CSS, and JavaScript
+- Exploring UI/UX design and creative web experiences
+
+## 🌱 Currently Learning
+- Front-End Development
+- JavaScript & Web Interactivity
+- Git & GitHub Collaboration
+- AI Tools for Productivity and Creativity
+
+## 🤝 Looking to Collaborate On
+- Open-source beginner projects
+- Web development projects
+- Creative digital products
+
+## 💬 Ask Me About
+- HTML, CSS, JavaScript
+- Website design ideas
+- Beginner web development projects
+- Digital creativity and AI tools
+
+## 📫 How to Reach Me
+- GitHub: @yourusername
+- Email: youremail@example.com
+
+## ⚡ Fun Fact
+I love turning simple ideas into interactive websites and digital experiences.
