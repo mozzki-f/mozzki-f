@@ -29,8 +29,8 @@ I'm passionate about building websites, exploring technology, and creating digit
 - Digital creativity and AI tools
 
 ## 📫 How to Reach Me
-- GitHub: @yourusername
-- Email: youremail@example.com
+- GitHub: @mozzki-f
+- Email: mrezafaurizki05@gmail.com
 
 ## ⚡ Fun Fact
 I love turning simple ideas into interactive websites and digital experiences.
