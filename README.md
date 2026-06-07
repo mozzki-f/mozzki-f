@@ -29,7 +29,7 @@ I'm passionate about building websites, exploring technology, and creating digit
 - Digital creativity and AI tools
 
 ## 📫 How to Reach Me
-- GitHub: @mozzki-f
+- GitHub: https://github.com/mozzki-f
 - Email: mrezafaurizki05@gmail.com
 
 ## ⚡ Fun Fact
